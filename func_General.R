@@ -3,7 +3,7 @@
 #
 # W Sauder
 #
-#
+# Added a comment for GIT Commit
 
 varFreq <- function(x){
      wrkng_ProdGroupFreq <- as.data.table(table(x))
